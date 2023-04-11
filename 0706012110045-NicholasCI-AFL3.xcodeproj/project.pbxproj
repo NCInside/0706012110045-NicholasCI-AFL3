@@ -11,6 +11,8 @@
 		04BC8B3D29E4ED3000FAD539 /* ContentView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 04BC8B3C29E4ED3000FAD539 /* ContentView.swift */; };
 		04BC8B3F29E4ED3200FAD539 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 04BC8B3E29E4ED3200FAD539 /* Assets.xcassets */; };
 		04BC8B4229E4ED3200FAD539 /* Preview Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 04BC8B4129E4ED3200FAD539 /* Preview Assets.xcassets */; };
+		04BC8B4929E4F43C00FAD539 /* CircleImage.swift in Sources */ = {isa = PBXBuildFile; fileRef = 04BC8B4829E4F43C00FAD539 /* CircleImage.swift */; };
+		04BC8B4B29E4F54200FAD539 /* MapView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 04BC8B4A29E4F54200FAD539 /* MapView.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -19,6 +21,8 @@
 		04BC8B3C29E4ED3000FAD539 /* ContentView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ContentView.swift; sourceTree = "<group>"; };
 		04BC8B3E29E4ED3200FAD539 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		04BC8B4129E4ED3200FAD539 /* Preview Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = "Preview Assets.xcassets"; sourceTree = "<group>"; };
+		04BC8B4829E4F43C00FAD539 /* CircleImage.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = CircleImage.swift; sourceTree = "<group>"; };
+		04BC8B4A29E4F54200FAD539 /* MapView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = MapView.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -55,6 +59,8 @@
 				04BC8B3C29E4ED3000FAD539 /* ContentView.swift */,
 				04BC8B3E29E4ED3200FAD539 /* Assets.xcassets */,
 				04BC8B4029E4ED3200FAD539 /* Preview Content */,
+				04BC8B4829E4F43C00FAD539 /* CircleImage.swift */,
+				04BC8B4A29E4F54200FAD539 /* MapView.swift */,
 			);
 			path = "0706012110045-NicholasCI-AFL3";
 			sourceTree = "<group>";
@@ -138,7 +144,9 @@
 			buildActionMask = 2147483647;
 			files = (
 				04BC8B3D29E4ED3000FAD539 /* ContentView.swift in Sources */,
+				04BC8B4B29E4F54200FAD539 /* MapView.swift in Sources */,
 				04BC8B3B29E4ED3000FAD539 /* _706012110045_NicholasCI_AFL3App.swift in Sources */,
+				04BC8B4929E4F43C00FAD539 /* CircleImage.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
